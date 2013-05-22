@@ -1,3 +1,3 @@
-este projeto eh apenas um teste<br />
-outro teste<br />
+<p style="background-color:blue">este projeto eh apenas um teste</p> <br />
+outro teste <br />
 teste teste teste...
